@@ -69,14 +69,6 @@ Discovered a strong passion for the Angular ecosystem and continued specializati
 
 ---
 
-## 📊 GitHub Analytics
-
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashR09&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashR09&layout=compact&theme=default)
-
----
-
 ## 📬 Connect with Me
 
 📌 **LinkedIn:** [Click Here](https://www.linkedin.com/in/yash-raval-4b8034232)  
